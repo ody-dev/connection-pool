@@ -1,8 +1,8 @@
 {
-  "name": "ody/pool",
+  "name": "ody/connection-pool",
   "description": "Connection pool for ODY framework",
   "minimum-stability": "stable",
-  "license": "proprietary",
+  "license": "MIT",
   "authors": [
     {
       "name": "Ilyas Deckers",
